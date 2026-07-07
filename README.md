@@ -1,7 +1,10 @@
 # SwasthyaSetu AI
 
-> **Predict. Prepare. Protect.**
-> A proactive rural health intelligence platform for India — predict outbreaks, forecast medicine shortages, evaluate interventions, and take preventive action *before* healthcare systems become overwhelmed.
+🚀 **Live Demo:** https://swasthya-setu-ai.vercel.app
+
+💻 **Source Code:** https://github.com/KrishangeeTayal/SwasthyaSetu-AI
+
+> **Predict. Prepare. Protect.** A proactive rural health intelligence platform for India — predict outbreaks, forecast medicine shortages, evaluate interventions, and take preventive action before healthcare systems become overwhelmed.
 
 [![Stack: Vite + React + TypeScript](https://img.shields.io/badge/Stack-Vite%20%2B%20React%20%2B%20TypeScript-0F7A86?style=flat-square)](#tech-stack)
 [![Maps: Leaflet + OSM](https://img.shields.io/badge/Maps-Leaflet%20%2B%20OSM-10B981?style=flat-square)](#tech-stack)
